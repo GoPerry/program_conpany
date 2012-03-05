@@ -1,4 +1,0 @@
-cc=gcc
-object=jiegouti
-
-

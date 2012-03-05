@@ -15,7 +15,8 @@ void main()
 {
 
 
-data *cc;
+data dd,*cc;
+cc=&dd;
 cc=(data *)malloc (sizeof(data));
 if(cc!=NULL){
 	cc->age=20;
